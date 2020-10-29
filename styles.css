@@ -1,0 +1,28 @@
+html, body {
+    background-color: rgb(137, 203, 214) !important;
+    color: black !important;
+}
+
+.intro {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.span4 img {
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
+
+.container{
+font-size: x-large;
+}
+
+.video-fluid {
+    height: 50vh;
+}
